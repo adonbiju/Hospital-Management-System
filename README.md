@@ -11,5 +11,5 @@ the prescription for the patient and admin have access to every function.
 # Screenshots
 ### Login Panel
 ![Login Page](https://user-images.githubusercontent.com/73121965/105224659-74010780-5b83-11eb-9935-9127b4aa68d7.PNG)
-###Admin Panel
+### Admin Panel
 ![Admin Panel](https://user-images.githubusercontent.com/73121965/105224556-52078500-5b83-11eb-8c07-34fb8430f952.PNG)
