@@ -1,7 +1,7 @@
 # Hospital-Management-System
 HOSPITAL MANAGEMENT SYSTEM is an desktop application used to register and control the details of doctor, receptionist and patient. 
-It is a platform that provides the receptionist to manage and maintain the details of patient . It also allows the doctor to give  
-the prescription for the patient and admin have access to every function.  
+It is a platform that provides the receptionist to manage and maintain the details of patient. It also allows the doctor to give the 
+prescription for the patient and admin have access to every function.  
 # Software Requirements
         * Apache NetBeans IDE 12.0 
         * Xampp  Server
