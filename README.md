@@ -10,6 +10,7 @@ prescription for the patient and admin have access to every function.
    
 # Screenshots
 ### Login Panel
-![Login Page](https://user-images.githubusercontent.com/73121965/105224659-74010780-5b83-11eb-9935-9127b4aa68d7.PNG)
+![Login Page](https://user-images.githubusercontent.com/73121965/105296652-eb648480-5bdf-11eb-80e5-a955a4eeee56.png)
 ### Admin Panel
-![Admin Panel](https://user-images.githubusercontent.com/73121965/105224556-52078500-5b83-11eb-8c07-34fb8430f952.PNG)
+![Admin Panel](https://user-images.githubusercontent.com/73121965/105296041-c5d77b00-5bdf-11eb-945a-b2068b8703cc.png)
+
